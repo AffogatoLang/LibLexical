@@ -12,7 +12,7 @@
  this list of conditions and the following disclaimer in the documentation
  and/or other materials provided with the distribution.
 
- * Neither the name of Affogato nor the names of its
+ * Neither the name of Affogato nor the names of its associated properties or
  contributors may be used to endorse or promote products derived from
  this software without specific prior written permission.
 
@@ -27,19 +27,12 @@
  OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
  OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-package co.louiscap.lib.lexical;
+package co.louiscap.lib.lexical.io;
 
 /**
  *
- * @author Louis Capitanchik
+ * @author Louis Capitanchik &lt;contact@louiscap.co&gt;
  */
-public class Lexer {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class LexicalFile {
     
 }
